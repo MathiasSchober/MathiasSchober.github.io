@@ -11,24 +11,24 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: Willkommen bei Mathias Schober Roboteranwendungen!
+    text: Ihr kompetenter Partner für Robotiklösungen.
+    button: Mehr Infos
     buttonlink: "#services"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
-    section: services
+    title: "ABB Service"
+    text: "Dienstleistungen im Bereich ABB"
+    section: Dienstleistungen
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Simulation"
+        desc: "Sie möchten neue Roboter implementieren und diese vorab als Simulation darstellen lassen? Sie möchten bestehende Programme ändern oder neue Projekte in Betrieb nehmen? Hierfür sind kaum Stillstandszeiten an Ihrer Anlage nötig. Ein Großteil kann vorab per Simulation erledigt werden."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Änderungen/Inbetriebnahmen"
+        desc: "Waterjet, Laser, Handling, Schweißanwendungen etc., ich unterstütze Sie kompetent bei Änderungen und Inbetriebnahmen neuer Projekte."
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+      - title: "Taktzeitoptimierung"
+        desc: "Haben Sie Anlagen bei denen der Roboter das Bottleneck darstellt? In den meisten Fällen lässt sich durch Ablaufänderungen/Geschwindigkeitsanpassung etc. einiges an Taktzeit einsparen. Sollte es mir einmal nicht möglich sein Taktzeit einzusparen, werde ich kein Geld dafür verlangen."
         icon: fab fa-markdown
 
   portfolio:
@@ -38,7 +38,7 @@ en: &DEFAULT_EN
     closebutton: "Close Project"
 
   timeline:
-    title: "About"
+    title: "Über mich"
     text: "Lorem ipsum timeline"
     section: timeline
     # left is the default
