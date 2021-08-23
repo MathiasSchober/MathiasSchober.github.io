@@ -19,7 +19,7 @@ en: &DEFAULT_EN
   services:
     title: "ABB Service"
     text: "Dienstleistungen im Bereich ABB"
-    section: Dienstleistungen
+    section: services
     list:
       - title: "Simulation"
         desc: "Sie möchten neue Roboter implementieren und diese vorab als Simulation darstellen lassen? Sie möchten bestehende Programme ändern oder neue Projekte in Betrieb nehmen? Hierfür sind kaum Stillstandszeiten an Ihrer Anlage nötig. Ein Großteil kann vorab per Simulation erledigt werden."
