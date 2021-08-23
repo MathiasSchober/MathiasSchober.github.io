@@ -21,7 +21,7 @@ email      : mathias.schober@roboteranwendungen.at #this is also the email conta
 description: "Site description"
 author     : Mathias Schober
 # logo:     #optional, defaults to site title
-  # path: assets\img\clients\creative-market.jpg
+  # path: assets\img\clients\Logo_Mathias_Schober_Roboteranwendungen.png
   # height: 60 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
